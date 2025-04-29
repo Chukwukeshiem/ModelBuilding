@@ -1,0 +1,28 @@
+# SpaceX Launch Records Dashboard
+
+This is an interactive dashboard built using Plotly Dash.  
+It visualizes SpaceX launch data, including payloads, success rates, and booster types.
+
+## How to Run
+
+1. Clone the repository.
+
+2. Install the required packages:
+
+you must install this :
+
+dash
+pandas
+plotly
+
+
+3. Run the application:
+
+
+
+4. Open your browser and go to `http://127.0.0.1:8050/`
+
+## Files
+- `spacex_dash_app.py`: Main Dash application
+- `spacex_launch_dash.csv`: Data file
+- `requirements.txt`: Dependencies list
